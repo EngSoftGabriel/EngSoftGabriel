@@ -52,19 +52,6 @@ Acredito que tecnologia bem aplicada é aquela que resolve problemas reais. Por 
 ---
 
 
-## 📈 GitHub em números
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EngSoftGabriel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas do GitHub" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EngSoftGabriel&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=EngSoftGabriel&theme=tokyonight&hide_border=true" alt="Streak de contribuições"/>
-</p>
-
----
-
 ## 🤝 Vamos trabalhar juntos?
 
 Se você precisa de um desenvolvedor confiável para tirar uma ideia do papel, integrar IA ao seu produto ou estruturar uma solução em dados, vamos conversar.
